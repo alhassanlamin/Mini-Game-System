@@ -1,2 +1,2 @@
-# Mini game system
-This is a compilation of all my mini games.
+# summer22-Mini game system
+- Built using Python for frontend
